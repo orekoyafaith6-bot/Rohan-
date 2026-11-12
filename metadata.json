@@ -1,0 +1,6 @@
+{
+  "name": "Rohan Bopanna Tennis Academy (RBTA)",
+  "description": "Official website of Rohan Bopanna Tennis Academy (RBTA) in Bengaluru, India. Elite tennis coaching, athlete development pathways, world-class facilities, and the Bhoomi Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
